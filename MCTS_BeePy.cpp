@@ -40,7 +40,6 @@ class hexapawn{
 private:
     unsigned seed;
     mt19937 gen;
-    int _;//? esto no se usa
     random_device rd;
     uniform_int_distribution<int> dist;
     default_random_engine e;
