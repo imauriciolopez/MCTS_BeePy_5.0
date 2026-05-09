@@ -1040,6 +1040,7 @@ class tree{
                             }
                         }
                     }
+                    
                     else{
                         cout<<"\ntiro de maquina:\n";
                         if(dificultad!=-1){
